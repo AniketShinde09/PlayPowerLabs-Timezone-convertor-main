@@ -12,7 +12,7 @@ The Timezone Converter Tool is a web application that enables users to convert c
 - **Reverse Order**: Reverse the order of timezones by clicking a button.
 - **Dark Mode**: Toggle between light and dark modes.
 
-## LiveView: [Click here](https://play-power-labs-timezone-convertor.vercel.app/)
+## LiveView: [Click here]([https://play-power-labs-timezone-convertor.vercel.app/](https://play-power-labs-timezone-convertor-main-ixloxv154.vercel.app))
 
 ## Technology Stack 
 ### Frontend:
