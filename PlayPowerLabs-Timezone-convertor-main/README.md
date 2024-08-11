@@ -31,7 +31,7 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/MayankBelwal05/PlayPowerLabs-Timezone-convertor.git
+    git clone https://github.com/AniketShinde09/PlayPowerLabs-Timezone-convertor-main/tree/main/PlayPowerLabs-Timezone-convertor-main
     ```
 2. **Navigate to the project directory**:
     ```bash
